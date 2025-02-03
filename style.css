@@ -145,7 +145,7 @@ img {
     right: .8em;
     width: 2em;
     height: 2em;
-    background-image: url(images/mercury.png);
+    background-image: url("./images/mercury.png");
     background-size: cover;
 }
 
@@ -154,7 +154,7 @@ img {
     right: 2em;
     width: 2em;
     height: 2em;
-    background-image: url(images/venus.png);
+    background-image: url("./images/venus.png");
     background-size: cover;
 }
 
