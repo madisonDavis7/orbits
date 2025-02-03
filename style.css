@@ -145,7 +145,7 @@ img {
     right: .8em;
     width: 2em;
     height: 2em;
-    background-image: url(/images/mercury.png);
+    background-image: url(images/mercury.png);
     background-size: cover;
 }
 
@@ -154,7 +154,7 @@ img {
     right: 2em;
     width: 2em;
     height: 2em;
-    background-image: url(/images/venus.png);
+    background-image: url(images/venus.png);
     background-size: cover;
 }
 
@@ -163,7 +163,7 @@ img {
     right: 0em;
     width: 5em;
     height: 5em;
-    background-image: url(/images/earth.png);
+    background-image: url(images/earth.png);
     background-size: cover;
 }
 
@@ -172,7 +172,7 @@ img {
     right: 0.2em;
     width: 1.2em;
     height: 1.2em;
-    background-image: url(/images/moon.png);
+    background-image: url(images/moon.png);
     background-size: cover;
 }
 
@@ -181,7 +181,7 @@ img {
     right: 3em;
     width: 3em;
     height: 3em;
-    background-image: url(/images/mars.png);
+    background-image: url(images/mars.png);
     background-size: cover;
 }
 
@@ -190,7 +190,7 @@ img {
     right: 3em;
     width: 5em;
     height: 5em;
-    background-image: url(/images/jupiter.png);
+    background-image: url(images/jupiter.png);
     background-size: cover;
 }
 
@@ -199,7 +199,7 @@ img {
     right: 5em;
     width: 4.5em;
     height: 4.5em;
-    background-image: url(/images/saturn.webp);
+    background-image: url(images/saturn.webp);
     background-size: cover;
 }
 
@@ -208,7 +208,7 @@ img {
     right: 6.5em;
     width: 4em;
     height: 4em;
-    background-image: url(/images/uranus.webp);
+    background-image: url(images/uranus.webp);
     background-size: cover;
 }
 
@@ -217,7 +217,7 @@ img {
     right: 8em;
     width: 4em;
     height: 4em;
-    background-image: url(/images/neptune.png);
+    background-image: url(images/neptune.png);
     background-size: cover;
 }
 
